@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://placehold.co/1200x400/2d3748/718096?text=Code+%26+Career&font=raleway" alt="Code & Career Channel Banner">
+<img width="520" height="183" alt="banner crop" src="https://github.com/user-attachments/assets/c5d3db3e-ab9a-4f6b-9af5-d6ec5db731ee" />
 <h1>Welcome to the Code & Career Official Repository! 🚀</h1>
 <p>The official code workshop for the Code & Career YouTube channel. Our mission is simple: <strong>we learn by building.</strong></p>
 <p>
-<a href="https://www.youtube.com/@CodeAndCareer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.youtube.com/@thecodeandcareer?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 &nbsp;
 <a href="https://discord.gg/your-invite-link"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
