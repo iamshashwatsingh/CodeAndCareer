@@ -20,7 +20,7 @@ Find Your Course: Everything is sorted into two main folders:
 
 course-1-python-foundation
 
-course-2-ai-developer-path
+course-2-ai-developer-path (Coming Soon)
 
 Navigate to the Video: Inside each course folder, you'll find modules and then individual folders numbered to match the videos (e.g., 01-HelloWorld).
 
@@ -31,7 +31,7 @@ Our curriculum is designed as one continuous journey following our 8-step roadma
 
 🐍 Course 1: The Python Foundation
 
-🤖 Course 2: The Professional AI Developer Path
+🤖 Course 2: The Professional AI Developer Path(Coming Soon)
 
 This is where your journey begins. We'll take you from zero to a proficient Python programmer, ready to tackle the world of data science and AI while building fun projects like a text-based adventure game.
 
